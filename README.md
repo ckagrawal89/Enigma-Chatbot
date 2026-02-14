@@ -223,6 +223,8 @@ Try it out and see what else it can do!
 
 > This project uses [pnpm](https://pnpm.io/) as the recommended package manager.
 
+**Prerequisite:** `Node.js >= 20.9.0` — required for the Next.js version used in this project.
+
 ```bash
 # If you don't have pnpm:
 npm install -g pnpm
